@@ -1,5 +1,8 @@
 Sites utilizados para aprendizado das tags necessárias:
 
+![image](https://user-images.githubusercontent.com/77905947/202575256-324a6bd2-fc1e-46f3-b951-56f96226c4db.png)
+
+
 a. https://www.devmedia.com.br/html-basico-codigos-html/16596
 b. https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
